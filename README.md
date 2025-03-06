@@ -1,11 +1,13 @@
-  ## Hi there 👋
+ # Hi, I'm Sulochana Gautam! 👋
 
-<!--
-**sulo2060/sulo2060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Studying in Prime College
+- 📫 Reach me at gautamsulo93@gmail.com
+- Currently working as QA
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
-- 🔭 I’m currently working on QA
-- 🌱 I’m currently learning Postman.
-- 📫 How to reach me: gautamsulo93@gmail.com
-
+---
+⭐ **Check out my repositories!** ⭐
